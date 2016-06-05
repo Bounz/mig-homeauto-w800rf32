@@ -37,12 +37,6 @@
     <Reference Include="NLog">
       <HintPath>..\packages\NLog.4.1.0\lib\net45\NLog.dll</HintPath>
     </Reference>
-    <Reference Include="W800Rf32Lib">
-      <HintPath>..\packages\W800Rf32Lib.1.0.5\lib\W800Rf32Lib.dll</HintPath>
-    </Reference>
-    <Reference Include="SerialPortLib">
-      <HintPath>..\packages\SerialPortLib.1.0.11\lib\SerialPortLib.dll</HintPath>
-    </Reference>
     <Reference Include="CommonMark">
       <HintPath>..\packages\CommonMark.NET.0.9.1\lib\net45\CommonMark.dll</HintPath>
     </Reference>
@@ -57,6 +51,12 @@
     </Reference>
     <Reference Include="MIG">
       <HintPath>..\packages\MIG.1.0.0-beta\lib\MIG.dll</HintPath>
+    </Reference>
+    <Reference Include="SerialPortLib">
+      <HintPath>..\packages\SerialPortLib.1.0.12\lib\SerialPortLib.dll</HintPath>
+    </Reference>
+    <Reference Include="W800Rf32Lib">
+      <HintPath>..\packages\W800Rf32Lib.1.0.6\lib\W800Rf32Lib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
